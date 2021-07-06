@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background: linear-gradient(#c400ff 0%, #e694ff 100%);
+    background-repeat: no-repeat;
+}
+
+#gamingIMG {
+    width: 200px;
+    border-radius: 50px;
+}
+
+#heading {
+    font-family:fantasy;
+    font-size: 24px;
+}
+
+ul {
+    list-style: none;
+    position:fixed;
+    right:30px;
+    text-align:center;
+    z-index:10;
+}
+
+li {
+    float:right;
+    padding-left:10px;
+    padding-right:10px;
+}
